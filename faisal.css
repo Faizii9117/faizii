@@ -1,0 +1,41 @@
+
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color : #eca01b
+    
+}
+#header{
+    color:  #DDDBCB;
+    background-color: #FCCB06;
+    height:50px ; 
+}
+    
+button{
+    background-color: rgb(38, 89, 135);
+}
+#logo{
+    font-size: 25px;
+}
+a{
+    margin-right: 200px;
+}
+#details{
+   background-color: #008080;
+   color:black
+   
+}
+h4{
+    color: black;
+    background-color: rgb(209, 206, 22);
+}
+table{
+    color:  #113f67; ;
+    
+    background-color: #DDDBCB;
+}
+h3{
+    text-align: center;
+}
